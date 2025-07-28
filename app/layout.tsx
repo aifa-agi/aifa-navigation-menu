@@ -8,8 +8,8 @@ import Link from "next/link"
 import { Toaster } from 'sonner'
 
 export const metadata: Metadata = {
-  title: 'AIFA NAV BAR',
-  description: 'Created with AIFA',
+  title: 'AIFA NAVIGATION MENU NEXTJS STARTER ',
+  description: 'An elegant, adaptive, open-source navigation menu designed for React/Next.js . It allows you to easily manage an infinite number of nested links and categories, as well as control access to menu items based on user roles.',
   generator: 'aifa.dev',
   icons: "/logo.png",
 }
