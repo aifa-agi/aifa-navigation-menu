@@ -59,15 +59,15 @@ This component comes packed with a set of powerful, ready-to-use features:
     -   **How it works:** All menu links, defined in a simple configuration file, are rendered using one central page component located at `app/[...params]/page.tsx`. This approach keeps your project organized and scalable, no matter how many pages you add.
     <p align="center">
       <em>One file structure to rule them all.</em><br>
-      <img src="public/images/aifa-navigation-menu-catch-all-routes.jpg" alt="Next.js Catch-All Route File Structure" width="600"/>
+      <img src="public/images/aifa-navigation-menu-catch-all-routes.png" alt="Next.js Catch-All Route File Structure" width="600"/>
     </p>
     <p align="center">
       <em>Generates a unique URL for every menu item.</em><br>
-      <img src="public/images/aifa-navigation-menu-catch-all-in-folder.jpg" alt="Unique URL for a generated page" width="600"/>
+      <img src="public/images/aifa-navigation-menu-catch-all-in-folder.png" alt="Unique URL for a generated page" width="600"/>
     </p>
     <p align="center">
       <em>And renders a unique, distinct page for each link.</em><br>
-      <img src="public/images/aifa-navigation-menu-catch-all-one-page.jpg" alt="Rendered page from the catch-all route" width="600"/>
+      <img src="public/images/aifa-navigation-menu-catch-all-one-page.png" alt="Rendered page from the catch-all route" width="600"/>
     </p>
 
 
