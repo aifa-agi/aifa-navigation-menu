@@ -31,21 +31,18 @@ The menu was designed with flexibility, performance, and developer experience in
 
 <p align="center">
   <strong>Desktop Version (Mega Menu)</strong><br>
-  <img src="./assets/aifa-navigation-menu-first-view.jpg" alt="Desktop Mega Menu View" width="800"/>
+  <img src="public/images/aifa-navigation-menu-first-view.png" alt="Desktop Mega Menu View" width="800"/>
 </p>
-[image:3]
 
 <p align="center">
   <strong>Mobile Version</strong><br>
-  <img src="./assets/aifa-navigation-menu-mobail-view.jpg" alt="Mobile Menu View" width="400"/>
+  <img src="public/images/aifa-navigation-menu-mobail-view.png" alt="Mobile Menu View" width="400"/>
 </p>
-[image:2]
 
 <p align="center">
   <strong>Role Simulator for RBAC Demonstration</strong><br>
-  <img src="./assets/aifa-navigation-menu-select-user-role.jpg" alt="Role Simulation for RBAC" width="800"/>
+  <img src="public/images/aifa-navigation-menu-select-user-role.png" alt="Role Simulation for RBAC" width="800"/>
 </p>
-[image:1]
 
 ## ✨ Core Features
 
@@ -71,6 +68,10 @@ The component is built using a modern and powerful technology stack:
 | **Code & Typing** | [TypeScript](https://www.typescriptlang.org/), [Zod](https://zod.dev/)                                                                                         |
 
 ## 🏁 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+
 
 To get a local copy up and running, follow these simple steps.
 
