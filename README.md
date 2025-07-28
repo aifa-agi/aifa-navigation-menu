@@ -63,7 +63,7 @@ This component comes packed with a set of powerful, ready-to-use features:
     </p>
     <p align="center">
       <em>Generates a unique URL for every menu item.</em><br>
-      <img src="public/images/aifa-navigation-menu-catch-all-in-folder.png" alt="Unique URL for a generated page" width="600"/>
+      <img src="public/images/aifa-navigation-menu-catch-all-in folder.png" alt="Unique URL for a generated page" width="600"/>
     </p>
     <p align="center">
       <em>And renders a unique, distinct page for each link.</em><br>
