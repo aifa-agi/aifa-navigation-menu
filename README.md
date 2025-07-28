@@ -55,7 +55,21 @@ This component comes packed with a set of powerful, ready-to-use features:
 -   **🎨 Customizable Badges:** Highlight important menu items with customizable badges like `NEW`, `IMPORTANT`, or `ADMIN` to attract user attention.
 -   **🚀 High Performance:** Optimized for fast loading and smooth animations using `Framer Motion`.
 
-*(This section will be expanded as new features are described...)*
+-   **🎓 Master Next.js Catch-All Routes:** This starter is a perfect real-world example of Next.js App Router's powerful "catch-all" segments. It demonstrates how to generate hundreds of unique, SEO-friendly pages dynamically from a single file.
+    -   **How it works:** All menu links, defined in a simple configuration file, are rendered using one central page component located at `app/[...params]/page.tsx`. This approach keeps your project organized and scalable, no matter how many pages you add.
+    <p align="center">
+      <em>One file structure to rule them all.</em><br>
+      <img src="public/images/aifa-navigation-menu-catch-all-routes.jpg" alt="Next.js Catch-All Route File Structure" width="600"/>
+    </p>
+    <p align="center">
+      <em>Generates a unique URL for every menu item.</em><br>
+      <img src="public/images/aifa-navigation-menu-catch-all-in-folder.jpg" alt="Unique URL for a generated page" width="600"/>
+    </p>
+    <p align="center">
+      <em>And renders a unique, distinct page for each link.</em><br>
+      <img src="public/images/aifa-navigation-menu-catch-all-one-page.jpg" alt="Rendered page from the catch-all route" width="600"/>
+    </p>
+
 
 ## 🛠️ Technology Stack
 
