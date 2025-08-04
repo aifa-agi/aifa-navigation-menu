@@ -14,7 +14,7 @@ export default function Page() {
           className="mt-8" 
           asChild
         >
-          <a href="https://github.com/aifa-agi" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/aifa-agi/aifa-navigation-menu" target="_blank" rel="noopener noreferrer">
             <ExternalLink className="mr-2 h-4 w-4" />
             Visit GitHub
           </a>
